@@ -1,0 +1,15 @@
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.csproj.AssemblyReference.cache
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.AssemblyInfoInputs.cache
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.AssemblyInfo.cs
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.csproj.CoreCompileInputs.cache
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\bin\Debug\net6.0\EmployeeValidate.exe
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\bin\Debug\net6.0\EmployeeValidate.deps.json
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\bin\Debug\net6.0\EmployeeValidate.runtimeconfig.json
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\bin\Debug\net6.0\EmployeeValidate.dll
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\bin\Debug\net6.0\EmployeeValidate.pdb
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.dll
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\refint\EmployeeValidate.dll
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.pdb
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\EmployeeValidate.genruntimeconfig.cache
+C:\Users\14703\source\repos\EmployeeValidate\EmployeeValidate\obj\Debug\net6.0\ref\EmployeeValidate.dll
